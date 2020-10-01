@@ -10,3 +10,4 @@ this is CRUD application of nodejs with mongodb Database
 #nodemon start
 
 #goto browser and run the URL
+http://localhost:3000/course/list
